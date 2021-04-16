@@ -7,7 +7,7 @@
 
 ### Features
 
-* Currently working to add the gem Devise to validate emails and passwords
+* One of the main learning points for this project is working to add the gem Devise to validate emails and passwords
 
 * Users will have to create an account / profile and log in
 * Users can follow other User
