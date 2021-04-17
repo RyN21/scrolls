@@ -2,12 +2,14 @@
 
 * Smook is a social media platform for book lovers around the globe.
 * The basis of this application is for users to store and share books that they love or are interested in.
-* Users can follow others to see what books they are interested in.
+* Users can follow others to see what books they are interested in and get ideas from.
 * There will be many features included as the app gets developed
 
 ### Features
 
-* One of the main learning points for this project is working to add the gem Devise to validate emails and passwords
+* Learning objectives
+  * Utalize the Devise gem to validate emails and passwords
+  * Create a Rails application with GraphQL
 
 * Users will have to create an account / profile and log in
 * Users can follow other User
