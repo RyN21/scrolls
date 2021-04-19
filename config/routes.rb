@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  devise_for :users, skip: :sessions
+  root 'home#index'
   if Rails.env.development?
     mount GraphiQL::Rails::Engine, at: "/graphiql", graphql_path: "/graphql"
   end
