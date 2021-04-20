@@ -37,7 +37,7 @@ RSpec.describe Interface do
 
     it "raises an error when given invalid id" do
       expect { MockClass.find_by_gql_id("bad-id") }.
-        to raise_error(ArgumentError)
+        to raise_error(GraphQL::ExecutionError)
     end
   end
 
