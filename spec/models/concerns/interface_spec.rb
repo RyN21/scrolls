@@ -1,10 +1,8 @@
-# frozen_string_literal: true
-
 require "rails_helper"
 
-RSpec.describe GraphQL::Interface do
+RSpec.describe Interface do
   class MockClass
-    include GraphQL::Interface
+    include Interface
 
     attr_reader :id
 
