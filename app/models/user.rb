@@ -1,4 +1,5 @@
 class User < ApplicationRecord
+  include GraphQL::Interface
   # Include default devise modules. Others available are:
   # :timeoutable, :trackable and :omniauthable
   devise :database_authenticatable,
