@@ -24,6 +24,13 @@ Test Repo
 
 ### Tech Stack
 
+#### Backend
+
 * Ruby 2.5.3p105
 * Rails 6.0.3.6
 * Postgres (PostgreSQL) 13.0
+
+#### Frontend
+
+* React
+* Tailwind
