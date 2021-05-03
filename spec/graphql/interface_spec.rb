@@ -1,8 +1,8 @@
 require "rails_helper"
 
-RSpec.describe GraphQL::Interface do
+RSpec.describe Interface do
   class MockClass
-    include GraphQL::Interface
+    include Interface
 
     attr_reader :id
 
@@ -37,7 +37,7 @@ RSpec.describe GraphQL::Interface do
 
     it "raises an error when given invalid id" do
       expect { MockClass.find_by_gql_id("bad-id") }.
-        to raise_error(ArgumentError)
+        to raise_error(GraphQL::ExecutionError)
     end
   end
 
