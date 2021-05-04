@@ -30,6 +30,7 @@ group :development, :test do
   gem 'capybara'
   gem 'launchy'
   gem 'pry'
+  gem 'faker'
   gem 'shoulda-matchers'
   gem 'table_print', '~> 1.5', '>= 1.5.7'
 end
@@ -39,7 +40,6 @@ group :development do
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.2'
   gem 'graphiql-rails'
-  gem 'faker'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
