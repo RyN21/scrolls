@@ -1,8 +1,6 @@
-Test Repo
+## Scrolls
 
-## Smook
-
-* Smook is a social media platform for book lovers around the globe.
+* Scrolls is a social media platform for book lovers around the globe.
 * The basis of this application is for users to store and share books that they love or are interested in.
 * Users can follow others to see what books they are interested in and get ideas from.
 * There will be many features included as the app gets developed
