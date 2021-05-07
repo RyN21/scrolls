@@ -10,6 +10,8 @@
 * Learning objectives
   * Utalize the Devise gem to validate emails and passwords
   * Create a Rails application with GraphQL
+  * Become more familiar with React
+  * Learn tailwind
 
 * Users will have to create an account / profile and log in
 * Users can follow other User
