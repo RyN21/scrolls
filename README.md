@@ -22,6 +22,8 @@
   - followers
   - following
 
+* Users can rate books
+
 ### Tech Stack
 
 #### Backend
