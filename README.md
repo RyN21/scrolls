@@ -23,6 +23,12 @@
   - following
 
 * Users can rate books
+* Users can comment on books
+* Books can have comments
+* Books will have different threads for users to talk to each other about the book
+* Users can create book clubs
+  - they can invite friends 
+  - they can chat and write comments
 
 ### Tech Stack
 
