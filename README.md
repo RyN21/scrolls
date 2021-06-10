@@ -14,6 +14,7 @@
   * Learn tailwind
 
 * Users will have to create an account / profile and log in
+* Authors can verify their account to claim their legitimacy 
 * Users can follow other User
 * Users will have the following lists:
   - favorites
@@ -28,7 +29,8 @@
 * Books will have different threads for users to talk to each other about the book
 * Users can create book clubs
   - they can invite friends 
-  - they can chat and write comments
+  - they can chat 
+  - they can write comments
 
 ### Tech Stack
 
